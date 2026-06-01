@@ -4,6 +4,7 @@ Braille pixel art and ASCII art experiments.
 
 ## Contents
 
-- `alchemist.yaml` — Alchemist configuration
+- `skins/` — Hermes agent skin/theme configurations
+  - `alchemist.yaml` — FMA Brotherhood palette (deep reds, military olive, steel, philosopher's gold)
 - `flamels_cross_braille*.txt` — Flamel's Cross in Braille (multiple sizes)
 - `snake.txt` — Snake ASCII art
